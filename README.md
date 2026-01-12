@@ -4,3 +4,8 @@
 
 This repository contains Apache hosting, Bash scripting,
 and a CI pipeline using GitHub Actions.
+# DevOps Project
+
+This repository contains a custom Apache webpage,
+a Bash script for system information, and a CI pipeline using GitHub Actions.
+
